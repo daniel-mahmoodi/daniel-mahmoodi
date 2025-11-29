@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 ### Let's Connect 🔗
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/danial-mahmoodi-29ba60204/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/danial-mah-29ba60204/)
 
 
 
